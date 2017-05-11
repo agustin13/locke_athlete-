@@ -1,0 +1,15 @@
+header{
+  text-align: center;
+  color: white;
+  background-color: gold;
+  padding-top: 4px;
+  padding-bottom: 9px;
+}
+body{
+  background-color: lightblue;
+}
+h1#sect2 {
+    background-color: gold;
+    text-align: center;
+    margin-right: 307px;
+  }
